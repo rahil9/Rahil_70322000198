@@ -1,0 +1,10 @@
+streamlit
+pdfplumber
+pandas
+regex
+
+# Optional OCR support
+# pytesseract
+# pdf2image
+# Pillow
+
